@@ -1,4 +1,1 @@
-
-
-selectsdf    @@version
-
+select    @@version
